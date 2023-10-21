@@ -1,2 +1,0 @@
-# Object_detection_using_cnn
-deep_learning_project
